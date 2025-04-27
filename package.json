@@ -1,5 +1,7 @@
 {
-  "homepage":" https://github.com/coderala/Website.git",
+ 
+  "homepage": "https://coderala.github.io/Website",
+
   "name": "react-site",
   "version": "0.1.0",
   "private": true,
